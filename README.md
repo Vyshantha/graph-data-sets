@@ -12,6 +12,11 @@ Corpus of data sets of shapes making up scripts, fonts, notations, numerals, cip
 
 2. The CSV Files of Scripts, Fonts (including Calligraphy), Notations, Numerals, Ciphers & yet to be Categorised sets
     - glyph-set-id
+
+        For the scripts or numeral systems of a script or font variety (or varieties) of a script or cipher script or notation systems the identifier ISO 15924 - Code Number will be used for those in Unicode 16.0.
+
+        For the glyph (inclusive of grapheme) set yet to be included in Unicode (or non-ISO), the convention is by assigning *(unique 4 letter code of Exonym-Name)-998 as the complete identifier for those sets that have the Unicode L2 proposal or *(unique4 letter code of Exonym-Name)-999 as the complete identifier for those sets with no Unicode L2 proposal.
+
     - exonym (with alternative labels)
     - endonym (with alternative labels)
     - typeface
