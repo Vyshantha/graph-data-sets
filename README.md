@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14251279.svg)](https://doi.org/10.5281/zenodo.14251279) November 30, 2024
 
-Corpus of data sets of shapes making up scripts, fonts, notations, numerals, ciphers &amp; yet to be categorised sets
+Corpus of data sets of shapes making up scripts, fonts (including calligraphy), notations, numerals, ciphers &amp; yet to be categorised sets
 
 ## Contents
 1. Shape data sets processing document
@@ -19,7 +19,6 @@ Corpus of data sets of shapes making up scripts, fonts, notations, numerals, cip
 
     - exonym (with alternative labels)
     - endonym (with alternative labels)
-    - typeface
     - scriptsource (link)
     - wikipedia (link)
     - omniglot (link)
