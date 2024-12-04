@@ -1,6 +1,6 @@
 # Research Studies - Work In Progress
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14251279.svg)](https://doi.org/10.5281/zenodo.14251279) November 30, 2024
+[![DOI](https://zenodo.org/badge/896542131.svg)](https://doi.org/10.5281/zenodo.14251208) December 4, 2024
 
 Corpus of data sets of shapes making up scripts, fonts (including calligraphy), notations, numerals, ciphers &amp; yet to be categorised sets
 
