@@ -8,7 +8,7 @@ Corpus of data sets of shapes making up scripts, fonts (including calligraphy), 
 1. Shape data sets processing document
     - details on what is aimed to be included for my research
     - what is yet to be determined to be included
-    - what has been excluded as of 30.11.2024
+    - what has been excluded as of 04.12.2024
 
 2. The CSV Files of Scripts, Fonts (including Calligraphy), Notations, Numerals, Ciphers & yet to be Categorised sets
     - glyph-set-id
