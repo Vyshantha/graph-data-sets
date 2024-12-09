@@ -19,6 +19,7 @@ graph-set-id,exonym,endonym,scriptsource,wikipedia,omniglot,endangeredalphabets,
 *Ansa-211,"Anglo-Saxon , Anglo-Saxon Runes , Anglo Frisian , Anglo-Frisian runes",,,https://en.wikipedia.org/wiki/Anglo-Saxon_runes,https://omniglot.com/writing/futhorc.htm,,
 *Ansh-999,Anshu,Khortha Lipi,,,,https://www.endangeredalphabets.net/anshu/,
 *Sils-999,"Apache Shaman , Western Apache Shaman , Silas John Symbols",,,,,,
+*Amth-995,"Arabic Mathematical Notations , Hindu-Arabic , Western Arabic","Arabic-Indic , Ghubār , Gobar",,https://en.wikipedia.org/wiki/Modern_Arabic_mathematical_notation,,,
 *Miao-999,"Archaic Miao Square , Archaic Miao Square Script",,,,,,
 *Areb-160,"Arebica , Аребица","عربٖىڄا ,آرەبـٖٮڄآ",https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Arab,https://en.wikipedia.org/wiki/Arebica,,,
 *Ariy-999,Ariyaka,,,,https://omniglot.com/writing/ariyaka.php,,
@@ -112,6 +113,7 @@ Xsux-020,"Cuneiform , Sumero-Akkadian , Babylon",,https://www.scriptsource.org/c
 *Cune-998,Early Dynastic Cuneiform,,,https://en.wikipedia.org/wiki/Early_Dynastic_Cuneiform,,,https://www.unicode.org/L2/L2012/12208-n4278-early-dynastic-cuneiform.pdf
 *Ecle-999,Eclectic shorthand,,,https://en.wikipedia.org/wiki/Eclectic_shorthand,,,
 *Edoo-999,"Edo , Esan , Esan Oracle Rainbow","Bini , Ido",,,,,https://www.unicode.org/L2/L2023/23203-update-african-scripts.pdf#page=13
+Egyh-060,"Egyptian hieratic , hiératique égyptien , ἱερατικά","Hieratic , sš",https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Egyh,https://en.wikipedia.org/wiki/Egyptian_numerals#Hieratic_numerals,https://www.omniglot.com/writing/egyptian_hieratic.htm,,https://www.unicode.org/L2/L2023/23181-n5240-hieroglyphs.pdf
 *Elam-020,Elamite,𒁹𒄬𒆷𒁶𒋾,,https://en.wikipedia.org/wiki/Elamite,https://www.omniglot.com/writing/elamite.htm#cuneiform,,
 *Olme-999,"Epi-Olmec , Isthmian",La Mojarra,,https://en.wikipedia.org/wiki/Isthmian_script,,,
 *Ersu-998,"Ersu Shaba , Ersu-Shaba , Ersu Shaba Picture Writing",Shaba,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qaag,https://en.wikipedia.org/wiki/Ersu_Shaba_script,,https://www.endangeredalphabets.net/ersu-shaba/,https://www.unicode.org/L2/L2017/17341-ersu-hieroglyphs.pdf
@@ -130,7 +132,7 @@ Xsux-020,"Cuneiform , Sumero-Akkadian , Babylon",,https://www.scriptsource.org/c
 *Fulb-999,"Fula (Ba) , Fula Ba",,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qa02,,https://omniglot.com/writing/fula.htm,https://www.endangeredalphabets.net/fula-ba/,
 *Fuld-999,"Fula (Dita) , Fula Dita",,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qa01,,https://omniglot.com/writing/fula.htm,https://www.endangeredalphabets.net/fula-dita/,
 *Ghsc-999,GHS hazard,,,https://en.wikipedia.org/wiki/Globally_Harmonized_System_of_Classification_and_Labelling_of_Chemicals,,,
-*Gasa-999,Ga,Ga Samai,,,,,https://www.unicode.org/L2/L2023/23203-update-african-scripts.pdf#page=13
+*Gasa-999,"Ga , Ga-Adangbe Symbols",Ga Samai,,,,,https://www.unicode.org/L2/L2023/23203-update-african-scripts.pdf#page=13
 *Gabe-999,Gabelsberger Shorthand,,,https://en.wikipedia.org/wiki/Gabelsberger_shorthand,,,
 *Gada-999,Gadaba,"Gutub , Mogililu , Modililu",,,https://www.omniglot.com/writing/gadaba.htm,,
 *Gaga-999,Gagarit Abada,"Kadazandusun , Pimato",,,https://www.omniglot.com/conscripts/gagarit.htm,https://www.endangeredalphabets.net/gagarit-abada/,
@@ -163,7 +165,6 @@ Xsux-020,"Cuneiform , Sumero-Akkadian , Babylon",,https://www.scriptsource.org/c
 *Hara-999,"Harari , Ibrahim's Alphabet",ዚቀዲም ሀረሪ ሀርፊያች,,,,,https://www.unicode.org/L2/L2023/23203-update-african-scripts.pdf#page=8
 *Hauh-999,Haujami Hausa,,,,,,
 *Hent-999,Hentaigana,"変体仮名 , 変体がな",,https://en.wikipedia.org/wiki/Hentaigana,,,
-*Arah-160,"Hindu-Arabic , Western Arabic","Arabic-Indic , Ghubār , Gobar",https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Arab,https://en.wikipedia.org/wiki/Arabic_numerals,,,
 *Hinm-999,Hinmol,हिंमोल लिपि,,,,,
 *Himm-999,Hiṁmol,,,https://en.wikipedia.org/wiki/Nepalese_scripts#/media/File:Nepal_Scripts.jpg,,,
 *Hoys-345,Hoysala,ಹೊಯ್ಸಳ,,,,,
@@ -438,8 +439,8 @@ Zsye-993,"Symbols , Miscellaneous Symbols , Technical Symbols",,,https://en.wiki
 *Tuso-999,"Tusona , Kasona",,,,,,https://www.unicode.org/L2/L2023/23203-update-african-scripts.pdf#page=14
 *Typa-999,"Typannot , TYPANNOT",,,,,,
 *Tart-999,Tărtăria,,,https://en.wikipedia.org/wiki/T%C4%83rt%C4%83ria_tablets,,,
-*Uche-999,Uchen,"དབུ་ཅན་ , Sambhota Lipi",,https://en.wikipedia.org/wiki/Uchen_script,,,
-*Umee-999,"Ume , Chugyig , Üme","དབུ་མེད་ , ཁྱུག་ཡིག་",,https://en.wikipedia.org/wiki/Um%C3%AA_script,,,
+*Uche-999,"Uchen , Head script","དབུ་ཅན་ , Sambhota Lipi",,https://en.wikipedia.org/wiki/Uchen_script,,,
+*Umee-999,"Ume , Üme , Umin , Tibetan Umehig , Headless script","དབུ་མེད་ , ཁྱུག་ཡིག་ , dpe-tshugs , Bêtsug , Chugyig",,https://en.wikipedia.org/wiki/Um%C3%AA_script,,,
 *Unic-215,Uncial,,,https://en.wikipedia.org/wiki/Uncial_script,,,
 *Usla-220,"Uslar , Caucasian Alphabets",,,,,,https://www.unicode.org/L2/L2022/22262-cyrillic-caucasian-langs.pdf
 *Licu-333,"Uttar Licchavi , Post-Licchavi",Licchavi (Uttar),,,,,
@@ -447,7 +448,7 @@ Zsye-993,"Symbols , Miscellaneous Symbols , Technical Symbols",,,https://en.wiki
 *Vexi-998,Vexillology,,,https://en.wikipedia.org/wiki/Vexillology,,,https://www.unicode.org/L2/L2024/24245-vexillology-symbols.pdf
 *Vija-345,Vijayanagara,ವಿಜಯನಗರ,,,,,
 *Vikr-999,Vikramkhol,,,https://en.wikipedia.org/wiki/Vikramkhol_Cave_Inscription,,,
-*Vinc-999,"Vinča , Vinča–Turdaș , Vinca",Danube,,https://en.wikipedia.org/wiki/Vin%C4%8Da_symbols,,,
+*Vinc-999,"Vinca , Vinča , Vinča–Turdaș",Danube,,https://en.wikipedia.org/wiki/Vin%C4%8Da_symbols,,,
 *Visi-215,Visigothic,Littera Visigothica,,,https://www.omniglot.com/writing/visigothic.htm,,
 *Vyaz-220,Vyaz,"вязь , вѩзати ⰲⱗⰸⰰⱅⰻ",,https://en.wikipedia.org/wiki/Vyaz_(Cyrillic_calligraphy),,,
 *Wadi-999,"Wadi el-Hol , Wadi el-Ħôl",,,https://en.wikipedia.org/wiki/Wadi_el-Hol_inscriptions,,,
