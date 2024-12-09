@@ -1,4 +1,26 @@
 graph-set-id,exonym,endonym,scriptsource,wikipedia,omniglot,endangeredalphabets,unicodeproposal
+*Musg-998,Ancient Greek Musical Notation,,,https://en.wikipedia.org/wiki/Ancient_Greek_Musical_Notation,,,
+*Amth-995,"Arabic Mathematical Notations , Hindu-Arabic , Western Arabic","Arabic-Indic , Ghubār , Gobar",,https://en.wikipedia.org/wiki/Modern_Arabic_mathematical_notation,,,
 Bali-360,"Balinese , balinais","ᬪᬵᬱᬩᬮᬶ , ᬅᬓ᭄ᬱᬭᬩᬮᬶ , ᬅᬓ᭄ᬱᬭ",https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Bali,https://en.wikipedia.org/wiki/Balinese_script,https://www.omniglot.com/writing/balinese.htm,,https://www.unicode.org/L2/L2005/05008-n2908-balinese.pdf
 Blis-550,"Blisssymbols , Blissymbolics , symboles Bliss , Augmentative and Alternative Communication (AAC)","Bliss Symbols , Semantography",https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Blis,https://en.wikipedia.org/wiki/Blissymbols,,,https://www.unicode.org/L2/L2023/23138-n5228-blissymbols.pdf
+*Musb-998,Byzantine Musical Symbols,,,https://en.wikipedia.org/wiki/Byzantine_Musical_Symbols,,,
+*Musc-998,Cantonese Musical Symbols,,,,,,https://www.unicode.org/L2/L2024/24071r2-ext-sz-num.pdf
+*Eswa-999,Eshkol-Wachman Notation,,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qaah,https://en.wikipedia.org/wiki/Eshkol-Wachman_movement_notation,,,
+*Sema-999,Flag Semaphore,INTERCO,,,https://www.omniglot.com/writing/semaphore.htm,,
+*Ghsc-999,GHS hazard,,,https://en.wikipedia.org/wiki/Globally_Harmonized_System_of_Classification_and_Labelling_of_Chemicals,,,
+*Must-998,"Gongche , Gongche Notations , Flute Musical Notation , Chinese Flute Musical Notation , Lute Musical Notation",,,,,,https://www.unicode.org/L2/L2017/17087-gonche-notation.pdf
+*Hamn-999,"HamNoSys Notation , Hamburg Notation System",,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qabn,https://en.wikipedia.org/wiki/Hamburg_Notation_System,,,
+*Isot-999,"ISOTYPE , International System of Typographic Picture Education)",,,https://en.wikipedia.org/wiki/Isotype_(picture_language),,,
+*Musi-998,Indian Classical Musical Notation (Gurumukhi),,,,,,https://www.unicode.org/L2/L2013/13227-gurmukhi-music.pdf
+*Imsf-999,International Code of Signals,Maritime Signal Flags,,https://en.wikipedia.org/wiki/International_Code_of_Signals,https://www.omniglot.com/writing/imsf.htm,,
+*Danc-999,International Movement Writing,DanceWriting,,https://en.wikipedia.org/wiki/International_Movement_Writing_Alphabet,,,
+*Musj-998,"Jianzi Musical Notation , Qinpu Notation",,,,,,https://www.unicode.org/L2/L2022/22206-chinese-music-uax45.pdf
+*Laba-999,Labanotation,,,https://en.wikipedia.org/wiki/Labanotation,,,
+*Muss-998,Medieval East-Slavic Musical Notation,,,,,,https://www.unicode.org/L2/L2012/12022-kievan.pdf
+*Musw-998,Musical Symbols,Western Classical Music,,,,,https://www.unicode.org/L2/L1998/98045.pdf
+*Sinf-999,SignFont Notation,,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qaao,,,,
+*Solr-999,Solresol,,,,https://www.omniglot.com/writing/solresol.htm,,
+*Aiga-999,"Traffic Information System , AIGA Symbols",,,,,,
+*Vexi-998,Vexillology,,,https://en.wikipedia.org/wiki/Vexillology,,,https://www.unicode.org/L2/L2024/24245-vexillology-symbols.pdf
+*Musz-998,"Znamenny Musical Notation , Znamenny Chant notation","Знаменное пение , знаменный распев , stolp notation",,https://en.wikipedia.org/wiki/Znamenny_chant,,,
 graph-set-id,exonym,endonym,scriptsource,wikipedia,omniglot,endangeredalphabets,unicodeproposal

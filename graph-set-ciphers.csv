@@ -1,6 +1,15 @@
 graph-set-id,exonym,endonym,scriptsource,wikipedia,omniglot,endangeredalphabets,unicodeproposal
+*Baba-998,"Baburi , mašhad , bāburī",Khatt-i Baburi,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qa60,,,,https://www.unicode.org/L2/L2011/11341-khatt-i-baburi.pdf
 *Bilb-999,"Bilang-bilang , Lontara Bilang Bilang , Counting script","Bilang-bilang , Aksara Lontara Bilang-bilang",https://scriptsource.org/cms/scripts/page.php?item_id=entry_detail&uid=y3csbn8pp7,https://en.wikipedia.org/wiki/Lontara_Bilang-bilang_script,https://www.omniglot.com/writing/bilangbilang.htm,,https://www.unicode.org/notes/tn35/indonesian-philippine.pdf#page=52
+*Copi-999,Copiale,,,,,,
 *Gang-998,"Gangga Malayu , Malay Cipher Alphabet",Gangga Malayu,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qa35,,,,https://unicode.org/L2/L2011/11151-gangga-malayu.pdf
+*Hara-999,"Harari , Ibrahim's Alphabet",ዚቀዲም ሀረሪ ሀርፊያች,,,,,https://www.unicode.org/L2/L2023/23203-update-african-scripts.pdf#page=8
+*Mors-999,"Morse Code , International Morse Code",-- --- •-• ••• • -•-• --- -•• •,,https://en.wikipedia.org/wiki/Morse_code,https://www.omniglot.com/writing/morsecode.htm,,
 *Naas-999,"Naasioi Otomaung , Ottomaung",Otomaung Naasioi,,,https://www.omniglot.com/writing/otomaung.htm,https://www.endangeredalphabets.net/alphabets/naasioi-otomaung/,
+*Telo-999,Optical Telegraph,,,https://en.wikipedia.org/wiki/Optical_telegraph,,,
+*Pigp-999,"Pigpen , masonic , Freemason , Rosicrucian",,,https://en.wikipedia.org/wiki/Pigpen_cipher,,,
+*Tele-999,Telegraph code,,,https://en.wikipedia.org/wiki/Telegraph_code,,,
+*Theb-999,Theban,Witches',,https://en.wikipedia.org/wiki/Theban_alphabet,https://www.omniglot.com/conscripts/theban.htm,,
 *Veso-998,"Veso Bey , Veso Bei","Gjirokastër , Gjirokastra",,https://en.wikipedia.org/wiki/Gjirokast%C3%ABr_alphabet,,,https://www.unicode.org/L2/L2009/09328-old-albanian.pdf
+*Yutt-999,Yuttasara,ยุตตสาระ,,,,,
 graph-set-id,exonym,endonym,scriptsource,wikipedia,omniglot,endangeredalphabets,unicodeproposal
