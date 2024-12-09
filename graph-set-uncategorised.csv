@@ -13,13 +13,11 @@ graph-set-id,exonym,endonym,scriptsource,wikipedia,omniglot,endangeredalphabets,
 *Alja-160,"Aljamiado , Morisco",Aljamía,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Arab,https://en.wikipedia.org/wiki/Aljamiado,,,
 *Amas-999,Amasaba,,,,,,
 *Abim-999,"Ancient Bima , Old Bimanese , Makassaarsch , Catatan Rafless , Catatan Zollinger","Aksara Bima Lama , Aksara Bima Kuna , Buku Mulok Bima , Dompu",,,,,https://www.unicode.org/notes/tn35/indonesian-philippine.pdf#page=43
-*Musg-998,Ancient Greek Musical Notation,,,https://en.wikipedia.org/wiki/Ancient_Greek_Musical_Notation,,,
 *Ande-999,Andes Pictograms,"Koati (La Paz) , Potosí , Oruro , Chuquisaca",,,,,https://www.unicode.org/notes/tn4/everson-iuc21pap.pdf#page=21
 *Angk-999,Angkorian Khmer,,,,,,
 *Ansa-211,"Anglo-Saxon , Anglo-Saxon Runes , Anglo Frisian , Anglo-Frisian runes",,,https://en.wikipedia.org/wiki/Anglo-Saxon_runes,https://omniglot.com/writing/futhorc.htm,,
 *Ansh-999,Anshu,Khortha Lipi,,,,https://www.endangeredalphabets.net/anshu/,
 *Sils-999,"Apache Shaman , Western Apache Shaman , Silas John Symbols",,,,,,
-*Amth-995,"Arabic Mathematical Notations , Hindu-Arabic , Western Arabic","Arabic-Indic , Ghubār , Gobar",,https://en.wikipedia.org/wiki/Modern_Arabic_mathematical_notation,,,
 *Miao-999,"Archaic Miao Square , Archaic Miao Square Script",,,,,,
 *Areb-160,"Arebica , Аребица","عربٖىڄا ,آرەبـٖٮڄآ",https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Arab,https://en.wikipedia.org/wiki/Arebica,,,
 *Ariy-999,Ariyaka,,,,https://omniglot.com/writing/ariyaka.php,,
@@ -31,7 +29,6 @@ graph-set-id,exonym,endonym,scriptsource,wikipedia,omniglot,endangeredalphabets,
 *Azte-999,Aztec Numerals,,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qa26,https://en.wikipedia.org/wiki/Aztec_script#Numerals,,,
 *Azte-999,Aztec Pictograms,,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qa26,https://en.wikipedia.org/wiki/Aztec_script,,,https://www.unicode.org/notes/tn4/everson-iuc21pap.pdf#page=19
 *Babo-999,Babao Songbook,,,,,https://www.endangeredalphabets.net/babao-songbook-script/,
-*Baba-998,"Baburi , mašhad , bāburī",Khatt-i Baburi,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qa60,,,,https://www.unicode.org/L2/L2011/11341-khatt-i-baburi.pdf
 *Badl-370,Badlit,"Bisaya , Visayan , Sulat Bisaya , Suwat Bisaya , Baybayin Bisaya",,,https://www.omniglot.com/writing/badlit.htm,https://www.endangeredalphabets.net/badlit/,
 *Bagt-999,Bagatha,,,,https://www.omniglot.com/writing/bagatha.htm,,
 *Bagi-999,Bagoi,"बागोई पोथी (सांचा) , चोई",,,,https://www.endangeredalphabets.net/bagoi/,
@@ -62,11 +59,9 @@ graph-set-id,exonym,endonym,scriptsource,wikipedia,omniglot,endangeredalphabets,
 *Bush-999,Bushahr,Bushahri,,https://en.wikipedia.org/wiki/Mahasu_Pahari#/media/File:Mahasuibushahri.png,,,
 *Byar-999,"Byari , Beary",ಬ್ಯಾರಿ,,,https://omniglot.com/writing/bearyscript.htm,https://www.endangeredalphabets.net/byari/,
 *Bybl-999,Byblos,,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qa29,https://en.wikipedia.org/wiki/Byblos_syllabary,,,https://www.unicode.org/notes/tn4/everson-iuc21pap.pdf#page=19
-*Musb-998,Byzantine Musical Symbols,,,https://en.wikipedia.org/wiki/Byzantine_Musical_Symbols,,,
 *Caca-361,"Cacarakan , Cacarakan Sunda",ꦕꦫꦏ,,https://en.wikipedia.org/wiki/Javanese_script#Usage_in_other_languages,,,
 *Caca-999,"Cacaxtla , Cholula",,,,,,
 *Cala-999,Calatagan,,,,,,https://www.unicode.org/notes/tn35/indonesian-philippine.pdf#page=12
-*Musc-998,Cantonese Musical Symbols,,,,,,https://www.unicode.org/L2/L2024/24071r2-ext-sz-num.pdf
 *Caro-215,Carolingian,,,https://en.wikipedia.org/wiki/Carolingian_minuscule,https://www.omniglot.com/writing/carolingian.htm,,
 *Cave-999,"Cave Doodle , Cave Art",,,,,,
 *Cayt-999,Caytu Wolof,Caytu,,,,https://www.endangeredalphabets.net/caytu-wolof/,
@@ -82,7 +77,6 @@ graph-set-id,exonym,endonym,scriptsource,wikipedia,omniglot,endangeredalphabets,
 *Chun-500,Chữ Nôm,𡨸喃,,https://en.wikipedia.org/wiki/Ch%E1%BB%AF_N%C3%B4m,,,
 *Cler-500,"Clerical , Chancery , lìshū , reishotai , lệ thư","隸書 , 隶书 , 隷書体 , 예서 , 례셔",,https://en.wikipedia.org/wiki/Clerical_script,,,
 *Conc-999,"Conch , Shankha script , Shell","शंखलिपि , Shankha , Shankhalipi",,https://en.wikipedia.org/wiki/Shankhalipi,,,
-*Copi-999,Copiale,,,,,,
 *Copp-215,Copperplate,,,https://en.wikipedia.org/wiki/Copperplate_script,,,
 *Cotz-999,Cotzumalhuapa Hieroglyphs,,,https://en.wikipedia.org/wiki/Cotzumalhuapa,,,
 *Rodc-998,Counting Rod,,,,,,
@@ -117,7 +111,6 @@ Egyh-060,"Egyptian hieratic , hiératique égyptien , ἱερατικά","Hierat
 *Elam-020,Elamite,𒁹𒄬𒆷𒁶𒋾,,https://en.wikipedia.org/wiki/Elamite,https://www.omniglot.com/writing/elamite.htm#cuneiform,,
 *Olme-999,"Epi-Olmec , Isthmian",La Mojarra,,https://en.wikipedia.org/wiki/Isthmian_script,,,
 *Ersu-998,"Ersu Shaba , Ersu-Shaba , Ersu Shaba Picture Writing",Shaba,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qaag,https://en.wikipedia.org/wiki/Ersu_Shaba_script,,https://www.endangeredalphabets.net/ersu-shaba/,https://www.unicode.org/L2/L2017/17341-ersu-hieroglyphs.pdf
-*Eswa-999,Eshkol-Wachman Notation,,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qaah,https://en.wikipedia.org/wiki/Eshkol-Wachman_movement_notation,,,
 *Faye-999,FaYe,Yoruba FaYe,,,,,https://www.unicode.org/L2/L2023/23203-update-african-scripts.pdf#page=13
 *Fakk-999,Fakkham,Thai Lanna,,https://en.wikipedia.org/wiki/Fakkham_script,,,
 *Feer-999,Feera,"Afar , Qafaraf",,,,,
@@ -125,13 +118,11 @@ Egyh-060,"Egyptian hieratic , hiératique égyptien , ἱερατικά","Hierat
 *Fins-999,Fingerspelling (2 Hands),Manual Alphabet,,https://en.wikipedia.org/wiki/Two-handed_manual_alphabets,,,
 *Fiol-221,Fiol's Octoechos,,,https://en.wikipedia.org/wiki/Fiol%27s_Octoechos,,,
 *Firm-999,Firmas,,,,,https://www.endangeredalphabets.net/firmas/,
-*Sema-999,Flag Semaphore,INTERCO,,,https://www.omniglot.com/writing/semaphore.htm,,
 *Pajn-999,"Flower Cloth script , Paj Ntaub Hmong","Ntawv Paj Ntaub Hmong , Ntawv Paj Ntaub",,,,,
 *Foxi-215,Fox I,,,https://en.wikipedia.org/wiki/Fox_language#Writing_systems,https://www.omniglot.com/writing/foxalphabet.htm,,
 *Foxj-215,Fox II,,,https://en.wikipedia.org/wiki/Fox_language#Writing_systems,https://www.omniglot.com/writing/foxalphabet.htm,,
 *Fulb-999,"Fula (Ba) , Fula Ba",,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qa02,,https://omniglot.com/writing/fula.htm,https://www.endangeredalphabets.net/fula-ba/,
 *Fuld-999,"Fula (Dita) , Fula Dita",,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qa01,,https://omniglot.com/writing/fula.htm,https://www.endangeredalphabets.net/fula-dita/,
-*Ghsc-999,GHS hazard,,,https://en.wikipedia.org/wiki/Globally_Harmonized_System_of_Classification_and_Labelling_of_Chemicals,,,
 *Gasa-999,"Ga , Ga-Adangbe Symbols",Ga Samai,,,,,https://www.unicode.org/L2/L2023/23203-update-african-scripts.pdf#page=13
 *Gabe-999,Gabelsberger Shorthand,,,https://en.wikipedia.org/wiki/Gabelsberger_shorthand,,,
 *Gada-999,Gadaba,"Gutub , Mogililu , Modililu",,,https://www.omniglot.com/writing/gadaba.htm,,
@@ -145,7 +136,6 @@ Egyh-060,"Egyptian hieratic , hiératique égyptien , ἱερατικά","Hierat
 *Goba-999,Goba,Tompa,,,,,
 *Gola-999,Gola,,,,,https://www.endangeredalphabets.net/gola/,https://www.unicode.org/L2/L2023/23203-update-african-scripts.pdf#page=7
 *Golm-999,Golmol,गोलमोल लिपि,,,,,
-*Must-998,"Gongche , Gongche Notations , Flute Musical Notation , Chinese Flute Musical Notation , Lute Musical Notation",,,,,,https://www.unicode.org/L2/L2017/17087-gonche-notation.pdf
 *Gotr-211,Gothic runes,,,https://en.wikipedia.org/wiki/Gothic_runic_inscriptions,https://omniglot.com/writing/gothicrunes.htm,,
 *Goud-999,Goudu,,,,https://www.omniglot.com/writing/goudu.htm,,
 *Goul-999,Goulsse,,,,https://www.omniglot.com/conscripts/goulsse.htm,https://www.endangeredalphabets.net/goulsse/,
@@ -161,8 +151,6 @@ Egyh-060,"Egyptian hieratic , hiératique égyptien , ἱερατικά","Hierat
 *Gupn-300,"Gupta-Narmada , Narbada",,,,,,
 *Halb-999,Halbi Lipi,,,,https://www.omniglot.com/writing/halbilipi.htm,,
 *Unch-215,Half-Uncial,Semi Uncial,,https://en.wikipedia.org/wiki/Uncial_script#Half-uncial,,,
-*Hamn-999,"HamNoSys Notation , Hamburg Notation System",,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qabn,https://en.wikipedia.org/wiki/Hamburg_Notation_System,,,
-*Hara-999,"Harari , Ibrahim's Alphabet",ዚቀዲም ሀረሪ ሀርፊያች,,,,,https://www.unicode.org/L2/L2023/23203-update-african-scripts.pdf#page=8
 *Hauh-999,Haujami Hausa,,,,,,
 *Hent-999,Hentaigana,"変体仮名 , 変体がな",,https://en.wikipedia.org/wiki/Hentaigana,,,
 *Hinm-999,Hinmol,हिंमोल लिपि,,,,,
@@ -172,17 +160,13 @@ Egyh-060,"Egyptian hieratic , hiératique égyptien , ἱερατικά","Hierat
 *Huma-215,Humanist,,,https://en.wikipedia.org/wiki/Humanist_minuscule,,,
 *Hurr-020,Hurrian,𒄷𒌨𒊑,,,https://www.omniglot.com/writing/hittite.htm,,
 *Hyan-999,Hyangchal,"향찰 , 鄕札",,https://en.wikipedia.org/wiki/Hyangchal,,,
-*Isot-999,"ISOTYPE , International System of Typographic Picture Education)",,,https://en.wikipedia.org/wiki/Isotype_(picture_language),,,
 *Iban-999,Iban,urup Dunging,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qa83,https://en.wikipedia.org/wiki/Dunging_script,https://www.omniglot.com/writing/dunging.htm,https://www.endangeredalphabets.net/alphabets/iban-dunging/,
 *Iduu-999,Idu,"이두 , 吏讀",,https://en.wikipedia.org/wiki/Idu_script,,,
 *Ilok-999,Iloko,,,https://bcl.wikipedia.org/wiki/Iskriturang_Guhit#/media/Ladawan:Several_Sulats_of_the_Philippines.jpg,,,
-*Musi-998,Indian Classical Musical Notation (Gurumukhi),,,,,,https://www.unicode.org/L2/L2013/13227-gurmukhi-music.pdf
 *Indq-998,"Indic Siyaq , Indian Siyaq","رقم سياق , Raqm , Rakam",https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Arab,,,,https://www.unicode.org/L2/L2015/15121r2-indic-siyaq.pdf
 *Scyt-300,Indo-Scythians,,,https://en.wikipedia.org/wiki/Brahmi_script#/media/File:Brahmi_script_between_the3rd_century_BCE_and_the_1st_century_CE.jpg,,,
 *Inta-998,Initial Teaching Alphabet,,,,,,https://www.unicode.org/L2/L2022/22286-initial-teaching-alpha.pdf
 *Insu-216,Insular,,,https://en.wikipedia.org/wiki/Insular_script,,,
-*Imsf-999,International Code of Signals,Maritime Signal Flags,,https://en.wikipedia.org/wiki/International_Code_of_Signals,https://www.omniglot.com/writing/imsf.htm,,
-*Danc-999,International Movement Writing,DanceWriting,,https://en.wikipedia.org/wiki/International_Movement_Writing_Alphabet,,,
 Ipas-999,International Phonetic Alphabet,,,https://en.wikipedia.org/wiki/International_Phonetic_Alphabet,https://www.omniglot.com/writing/ipa.htm,,https://en.wikipedia.org/wiki/IPA_Extensions
 *Isyk-999,"Issyk , Issyk-Bactrian",,,https://en.wikipedia.org/wiki/Issyk_inscription,,,
 *Izap-999,"Izapa , Izapan Hieroglyphs",,,,,,
@@ -190,7 +174,6 @@ Ipas-999,International Phonetic Alphabet,,,https://en.wikipedia.org/wiki/Interna
 *Jhar-999,Jhar,,,,,https://www.endangeredalphabets.net/jhar/,
 *Jiah-999,"Jiahu Symbols , Jiǎhú","賈湖 , Peiligang",,https://en.wikipedia.org/wiki/Jiahu_symbols,,,
 *Jian-999,Jiangzhai Symbols,Yangshao,,https://en.wikipedia.org/wiki/Neolithic_symbols_in_China#Banpo_and_Jiangzhai,,,
-*Musj-998,"Jianzi Musical Notation , Qinpu Notation",,,,,,https://www.unicode.org/L2/L2022/22206-chinese-music-uax45.pdf
 *Jing-999,"Jing , Zinan",,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qa38,,,,
 *Jinp-999,Jingpo,,,,,https://www.endangeredalphabets.net/jingpo-pictographic-script/,
 *Jiro-999,Jiroft,,,https://en.wikipedia.org/wiki/Jiroft_culture#Writing_system,,,
@@ -212,7 +195,6 @@ Ipas-999,International Phonetic Alphabet,,,https://en.wikipedia.org/wiki/Interna
 *Keki-999,Kekiwin,,,https://de.wikipedia.org/wiki/Kekiwin,,,
 *Kenz-999,"Kenzi , Nubian Kenzi",,,,,,https://www.unicode.org/L2/L2023/23203-update-african-scripts.pdf#page=13
 *Kham-999,"Khamyang , Tai Khamyang",,,https://en.wikipedia.org/wiki/Khamyang_language,,,
-*Badi-Qa60,Khatt-i-Badí',Khatt-i-Badí',https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qa60,,https://omniglot.com/writing/khattibadi.htm,,
 *Khom-999,Khom,Kommodam,,https://en.wikipedia.org/wiki/Khom_script_(Ong_Kommadam),,https://www.endangeredalphabets.net/khom/,
 *Ngam-999,Kii,Ngamga Kii,,,,,https://www.unicode.org/L2/L2023/23203-update-african-scripts.pdf#page=13
 *Knot-999,"Knots , knotted cord",,,,,,
@@ -237,7 +219,6 @@ Ipas-999,International Phonetic Alphabet,,,https://en.wikipedia.org/wiki/Interna
 *Kumm-999,"Kuṁmol , Kunmol",कुंमोल लिपि,,,,,
 *Kvem-999,"Kveṁmol , Kwemol , Kveṁmol",क्वेमोल लिपि,,https://en.wikipedia.org/wiki/Nepalese_scripts#/media/File:Nepal_Scripts.jpg,,,
 *Kwek-999,"Kwekor , Myainggyingu","မြိုင်ကြီးငူ , ေလကွယ်ေကာ် , แกว่ก่อ",,,,,
-*Laba-999,Labanotation,,,https://en.wikipedia.org/wiki/Labanotation,,,
 *Dazl-999,Large Seal,"大篆 , Dàzhuàn",,https://en.wikipedia.org/wiki/Large_seal_script,,,
 *Lekw-999,"Lekwaikaw , Kwekaw",,,,,https://www.endangeredalphabets.net/lekwaikaw/,
 *Levs-999,Levant Scarabs,,,,,,
@@ -264,7 +245,6 @@ Ipas-999,International Phonetic Alphabet,,,https://en.wikipedia.org/wiki/Interna
 Zmth-995,Mathematical notation,,,https://en.wikipedia.org/wiki/Mathematical_notation,,,
 *Mayc-998,"Maya (Codical) , Mayan Codices , Mayan Codical",Maya,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Maya,https://en.wikipedia.org/wiki/Maya_script,,,https://www.unicode.org/L2/L2023/23228-mayan-update_korr.pdf
 *Mboj-998,Mbojo,Mbojo,,,,,
-*Muss-998,Medieval East-Slavic Musical Notation,,,,,,https://www.unicode.org/L2/L2012/12022-kievan.pdf
 *Medi-999,"Medieval runes , Bind rune",,,https://en.wikipedia.org/wiki/Medieval_runes,,,
 *Meey-337,Meetei Yelhou Mayek,"Naoriya Phulo , Naoria",,https://en.wikipedia.org/wiki/Naoriya_Phulo_script,https://www.omniglot.com/writing/meeteiyelhoumayek.htm,https://www.endangeredalphabets.net/meetei-yelhou-mayek/,
 *Megs-610,"Megalithic Graffiti , Megalithic graffiti symbols , megalithic graffiti marks",,,https://en.wikipedia.org/wiki/Megalithic_graffiti_symbols,,,
@@ -279,10 +259,8 @@ Zmth-995,Mathematical notation,,,https://en.wikipedia.org/wiki/Mathematical_nota
 *Monf-145,"Mongolian (Folded) , Vertical Square","Босоо дөрвөлжин , होर्हिग् , Tibetan Horhig , Ornamental Mongol",,https://en.wikipedia.org/wiki/Mongolian_writing_systems#/media/File:Mong%C9%A3ol.png,,,
 *Mood-999,"Moodibbo , Moodibbo Bello Aamadu Mohammadu",,,,,,https://www.unicode.org/L2/L2023/23203-update-african-scripts.pdf#page=6
 *Moor-999,Moore,Mooré,,,,,
-*Mors-999,"Morse Code , International Morse Code",-- --- •-• ••• • -•-• --- -•• •,,https://en.wikipedia.org/wiki/Morse_code,https://www.omniglot.com/writing/morsecode.htm,,
 *Muis-999,Muisca,,,https://en.wikipedia.org/wiki/Muisca_numerals,,,
 *Mukh-999,"Mukha Dora , Mukha-Dora",,,,https://www.omniglot.com/writing/mukhadora.htm,,
-*Musw-998,Musical Symbols,Western Classical Music,,,,,https://www.unicode.org/L2/L1998/98045.pdf
 *Musn-999,Musnad,,,,,,
 *Ntii-999,N'Ti,,,,,https://www.endangeredalphabets.net/nti/,https://www.unicode.org/L2/L2023/23203-update-african-scripts.pdf#page=10
 *Nagr-999,"Nagari , Nāgarī",,,https://en.wikipedia.org/wiki/N%C4%81gar%C4%AB_script,,,
@@ -309,7 +287,6 @@ Zmth-995,Mathematical notation,,,https://en.wikipedia.org/wiki/Mathematical_nota
 *Nubo-204,"Old Nubian , Nubian",Ⲛⲟⲩⲃⲓⲛ,,,https://omniglot.com/writing/oldnubian.htm,,https://www.unicode.org/L2/L2023/23203-update-african-scripts.pdf#page=11
 *Suno-999,"Old Sundanese , Sunda Kuno","ᮃᮊ᮪ᮞᮛ ᮞᮥᮔ᮪ᮓ ᮊᮥᮔ᮪ᮓ , Aksara Sunda Buhun",,https://en.wikipedia.org/wiki/Old_Sundanese_script,,,
 *Olmc-999,"Olmec , Cascajal , Monte Albán",,,https://en.wikipedia.org/wiki/Olmecs,,,
-*Telo-999,Optical Telegraph,,,https://en.wikipedia.org/wiki/Optical_telegraph,,,
 *Orac-998,Oracle Bone,"甲骨文 , jiǎgǔwén",,,https://omniglot.com/chinese/jiaguwen.htm,,https://www.unicode.org/L2/L2015/15280-n4687-oracle-bone.pdf
 *Oroi-999,"Oromiñña , Oromo",,,,,,
 *Oroo-999,Oromo,,,,,,https://www.unicode.org/L2/L2023/23203-update-african-scripts.pdf#page=14
@@ -326,7 +303,6 @@ Zmth-995,Mathematical notation,,,https://en.wikipedia.org/wiki/Mathematical_nota
 *Petr-999,Petroglyph,,,https://en.wikipedia.org/wiki/Petroglyph,,,
 *Phry-999,Phrygian,,,https://en.wikipedia.org/wiki/Phrygian_alphabet,,,
 *Pict-999,Pictish symbols,,,https://en.wikipedia.org/wiki/Pictish_stone,,,
-*Pigp-999,"Pigpen , masonic , Freemason , Rosicrucian",,,https://en.wikipedia.org/wiki/Pigpen_cipher,,,
 *Pisa-999,Pisa Baptistery,,,,,,
 *Pisi-999,Pisidian,,,https://en.wikipedia.org/wiki/Alphabets_of_Anatolia#Alphabets,,,
 *Pitm-998,Pitman Shorthand,,,https://en.wikipedia.org/wiki/Pitman_shorthand,https://www.omniglot.com/writing/shorthand.htm,,https://www.unicode.org/L2/L2016/16196-pitman.pdf
@@ -361,13 +337,13 @@ Pelm-016,"Proto-Elamite , Proto Elamite , proto-élamite",,https://www.scriptsou
 *Rika-361,Rikasara,Rikasara Cirebon,,https://id.wikipedia.org/wiki/Bahasa_Cirebon#Aksara_Rikasara_Cirebon,,,
 *Squa-999,Roman Capitals,,,https://en.wikipedia.org/wiki/Roman_square_capitals,,,
 *Romc-215,Roman Cursive,,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Latn,https://en.wikipedia.org/wiki/Latin_script_in_Unicode,https://www.omniglot.com/writing/romancursive.htm,,
-*Romc-215,Roman Numerals,,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Latn,https://en.wikipedia.org/wiki/Roman_numerals,,,
+*Romn-215,Roman Numerals,,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Latn,https://en.wikipedia.org/wiki/Roman_numerals,,,
 *Rond-999,Ronde,,,https://en.wikipedia.org/wiki/Ronde_script,,,
 *Rosa-999,Rosary,"Misbaha , Japamala",,https://en.wikipedia.org/wiki/Rosary,,,
 *Rotu-999,Rotunda,,,https://en.wikipedia.org/wiki/Rotunda_(script),,,
 *Roun-215,"Round-Hand , roundhand","italic cursiva , italic circumflessa , rhonde",,https://en.wikipedia.org/wiki/Round_hand,,,
 *Ruan-999,"Ruanghiak , Naga Ruanghiak",Rongmei Naga Ruanghiak,,,,https://www.endangeredalphabets.net/rongmei-naga-ruanghiak/,
-*Russ-220,Russian cursive,,,https://en.wikipedia.org/wiki/Russian_cursive,,,
+*Russ-220,"Russian cursive , Ruthenisch , Syrjanisch",,,https://en.wikipedia.org/wiki/Russian_cursive,,,
 *Rust-999,Rustic Capitals,,,https://en.wikipedia.org/wiki/Rustic_capitals,https://www.omniglot.com/writing/rusticcaptials.htm,,
 *Saam-999,"Saami drums , Saami runes Finnmark",Sámi noaidi,,https://en.wikipedia.org/wiki/S%C3%A1mi_drum,,,
 *Samv-999,Sambava,"Pāluvan , Parappecc , Porul , Paraya",,,,https://www.endangeredalphabets.net/paraya/,
@@ -382,7 +358,6 @@ Pelm-016,"Proto-Elamite , Proto Elamite , proto-élamite",,https://www.scriptsou
 *Sawv-999,"Sawveh , Sawgoek , Root script , Insect script",Sawva,,https://en.wikipedia.org/wiki/Sawgoek,,,
 *Sigl-999,Siglas poveiras,marcas poveiras,,https://en.wikipedia.org/wiki/Siglas_poveiras,,,
 *Sign-999,SignFont,,,,,,
-*Sinf-999,SignFont Notation,,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qaao,,,,
 *Sila-999,Silabario Amazonico,"Silabario Amazónico , SilAm",,,https://www.omniglot.com/conscripts/silam.htm,https://www.endangeredalphabets.net/silabario-amazonico/,
 *Sing-999,Singapore,Singapura,,https://en.wikipedia.org/wiki/Singapore_Stone,,,
 *Sito-999,Sitovo,,,https://en.wikipedia.org/wiki/Sitovo_inscription,,,
@@ -390,14 +365,13 @@ Pelm-016,"Proto-Elamite , Proto Elamite , proto-élamite",,https://www.scriptsou
 *Mete-998,Slovene Alphabet,Metelko,,,,,https://www.unicode.org/L2/L2023/23074-slovene-metelko.pdf
 *Qins-998,"Small Seal , Shuowen Small Seal , Qin , Qínzhuàn , Zhuànshū","小篆 , xiǎozhuàn , 秦篆 , 篆書 篆书",,https://en.wikipedia.org/wiki/Small_seal_script,,,https://www.unicode.org/L2/L2015/15281-n4688-small-seal.pdf
 *Smar-999,Smar,"Maryig , smar-tshugs , lha babs yi ge",,,,,
-*Solr-999,Solresol,,,,https://www.omniglot.com/writing/solresol.htm,,
 *Sona-999,Sona,Lusona,,https://en.wikipedia.org/wiki/Lusona,,https://www.endangeredalphabets.net/alphabets/sona/,https://www.unicode.org/L2/L2023/23203-update-african-scripts.pdf#page=14
 *Sone-999,Soneka,,,,https://www.omniglot.com/conscripts/soneka.htm,,
 *Song-999,Songhay,Songhai,,,,,
 *Soni-999,Soni,,,,,https://www.endangeredalphabets.net/soni/,https://www.unicode.org/L2/L2023/23203-update-african-scripts.pdf#page=14
 *Semi-999,South Semitic,,,https://en.wikipedia.org/wiki/South_Semitic_scripts,,,
 *Spen-999,Spencerian,,,https://en.wikipedia.org/wiki/Spencerian_script,,,
-*Srbu-221,Srbulja,,,https://en.wikipedia.org/wiki/Srbulja,,,
+*Srbu-221,"Srbulja , Serbisch , Illyrisch",,,https://en.wikipedia.org/wiki/Srbulja,,,
 *Stav-999,Staveless runes,,,https://en.wikipedia.org/wiki/Staveless_runes,,,
 *Stok-998,Stokoe Notation,,https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qaaq,https://en.wikipedia.org/wiki/Stokoe_notation,,,https://www.unicode.org/L2/L2012/12133-toward-stokoe.pdf
 *Suan-999,"Suanpan , Chinese Abacus , Souanpan , Suànpán","算盘 , 算盤",,https://en.wikipedia.org/wiki/Suanpan,,,
@@ -419,11 +393,9 @@ Zsye-993,"Symbols , Miscellaneous Symbols , Technical Symbols",,,https://en.wiki
 *Tall-999,Tally marks,"Ishango , Lebombo",,,,,
 *Tamb-300,Tamil-Brahmi,"Tamili , Damili , 𑀵𑀶𑀷𑁱𑁲𑁵",,https://en.wikipedia.org/wiki/Tamil-Brahmi,,,
 *Tamy-999,Tamyig,,,https://en.wikipedia.org/wiki/Tamyig_script,,,
-*Tele-999,Telegraph code,,,https://en.wikipedia.org/wiki/Telegraph_code,,,
 *Teot-999,Teotihuacan,Teotihuacano,,,,,
 *Test-999,Testerian,,,https://en.wikipedia.org/wiki/Testerian,,,
 *Nith-999,Thai Nithet,,,,,,
-*Theb-999,Theban,Witches',,https://en.wikipedia.org/wiki/Theban_alphabet,https://www.omniglot.com/conscripts/theban.htm,,
 *Thin-999,"Thinite , Proto-Saharan , Proto Saharan",,,,,,
 *Thir-999,Thirke,ಕೊಡವ,,https://en.wikipedia.org/wiki/Thirke,,,
 *Thom-999,Thomas Natural Shorthand,,,https://en.wikipedia.org/wiki/Thomas_Natural_Shorthand,,,
@@ -432,7 +404,6 @@ Zsye-993,"Symbols , Miscellaneous Symbols , Technical Symbols",,,https://en.wiki
 *Todo-145,"Todo (Mongolian) , Clear script","ᡐᡆᡑᡆ ᡋᡅᡒᡅᡎ , Тодо бичиг",,https://en.wikipedia.org/wiki/Clear_Script,,,
 *Totc-999,"Totonac , Gulf-Coastal",,,,,,
 *Yiit-460,"Traditional Nuosu , Traditional Yi , yi","ꆈꌠꁱꂷ , ꊿꂷꃅꄿ , nuosu bburma",,https://en.wikipedia.org/wiki/Yi_script#Classical_Yi,https://www.omniglot.com/writing/yi.htm,,https://unicode.org/L2/L2004/04293-a015.pdf#page=6
-*Aiga-999,"Traffic Information System , AIGA Symbols",,,,,,
 *Troy-999,Trojan,,,https://en.wikipedia.org/wiki/Trojan_script,,,
 *Tuji-999,Tujia,,,https://en.wikipedia.org/wiki/Tujia_language#Possible_Ancient_Tujia_script,,,
 *Tula-999,Tula,Xochicalco,,,,,
@@ -445,7 +416,6 @@ Zsye-993,"Symbols , Miscellaneous Symbols , Technical Symbols",,,https://en.wiki
 *Usla-220,"Uslar , Caucasian Alphabets",,,,,,https://www.unicode.org/L2/L2022/22262-cyrillic-caucasian-langs.pdf
 *Licu-333,"Uttar Licchavi , Post-Licchavi",Licchavi (Uttar),,,,,
 *Vasc-999,Vasconic,,,,,,
-*Vexi-998,Vexillology,,,https://en.wikipedia.org/wiki/Vexillology,,,https://www.unicode.org/L2/L2024/24245-vexillology-symbols.pdf
 *Vija-345,Vijayanagara,ವಿಜಯನಗರ,,,,,
 *Vikr-999,Vikramkhol,,,https://en.wikipedia.org/wiki/Vikramkhol_Cave_Inscription,,,
 *Vinc-999,"Vinca , Vinča , Vinča–Turdaș",Danube,,https://en.wikipedia.org/wiki/Vin%C4%8Da_symbols,,,
@@ -464,12 +434,10 @@ Zsye-993,"Symbols , Miscellaneous Symbols , Technical Symbols",,,https://en.wiki
 *Yifa-999,"Yoruba Ifa Holy , Yoruba Holy Writing , Aladura Holy",,,,,https://www.endangeredalphabets.net/yoruba-holy-writing/,https://www.unicode.org/L2/L2023/23203-update-african-scripts.pdf#page=13
 *Futh-211,Younger Futhark,,,,,,
 *Yugt-999,Yugtun,,,,https://omniglot.com/writing/yugtun.htm,,
-*Yutt-999,Yuttasara,ยุตตสาระ,,,,,
 *Zabu-999,Zabur,Zabūr,,,,,
 *Hauz-999,Zanan (Hausa),,,,,,
 *Zabl-215,Zaner-Bloser,Teaching_script,,https://en.wikipedia.org/wiki/Zaner-Bloser_(teaching_script),,,
 *Zapo-999,Zapotec,,,,,,
-*Musz-998,"Znamenny Musical Notation , Znamenny Chant notation","Знаменное пение , знаменный распев , stolp notation",,https://en.wikipedia.org/wiki/Znamenny_chant,,,
 *Zoux-999,Zou (Congo),,,,,,
 *Zouz-999,Zou (India),"Zo lai , Zoulai",https://www.scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qa23,,,,https://www.unicode.org/L2/L2010/10254r2-zou.pdf
 graph-set-id,exonym,endonym,scriptsource,wikipedia,omniglot,endangeredalphabets,unicodeproposal
