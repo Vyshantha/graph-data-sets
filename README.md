@@ -1,6 +1,6 @@
 # Research Studies - Work In Progress
 
-[![DOI](https://zenodo.org/badge/896542131.svg)](https://doi.org/10.5281/zenodo.14251208) December 4, 2024
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14499169.svg)](https://doi.org/10.5281/zenodo.14499169) December 16, 2024
 
 Corpus of data sets of shapes making up scripts, fonts (including calligraphy), notations, numerals, ciphers &amp; yet to be categorised sets
 
@@ -8,7 +8,7 @@ Corpus of data sets of shapes making up scripts, fonts (including calligraphy), 
 1. Shape data sets processing document
     - details on what is aimed to be included for my research
     - what is yet to be determined to be included
-    - what has been excluded as of 04.12.2024
+    - what has been excluded as of 16.12.2024
 
 2. The CSV Files of Scripts, Fonts (including Calligraphy), Notations, Numerals, Ciphers & yet to be Categorised sets
     - graph-set-id
